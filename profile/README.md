@@ -63,6 +63,7 @@
 | ✅ **Core promise.** Autonomous AI agents in Microsoft 365 take on repetitive, multi‑step work so people can focus on strategy. | ✅ **Seamless integration.** Teams, Outlook, SharePoint, Power Platform, and corporate systems via Microsoft Graph. |
 | ✅ **Security first.** Governance, DLP, RBAC, audit, and explainability by default. | ✅ **Practical autonomy.** Multi‑step scenarios, actions, and coordination with minimal human oversight. |
 | ✅ **Fast value.** Pilot in 2-4 weeks with KPIs and a clear path to ROI. | ✅ **Scalable delivery.** From PoC to enterprise with monitoring, MLOps, and continuous improvement. |
+| | |
 
 ---
 
@@ -80,6 +81,7 @@
 | **Intranets & knowledge ops** | Smart SharePoint portals with agentic search and knowledge refresh. |
 | **Power Platform + AI** | Power Automate and Power Apps with agent logic and triggers. |
 | **Governance & security** | DLP, audit trails, role-based access, and explainability. |
+| | |
 
 ---
 
