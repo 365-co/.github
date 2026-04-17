@@ -106,7 +106,7 @@
 
 An agentic process handling inbound tickets cut first‑response time by **60%** and operator load by **45%** *(illustrative benchmark).*
 
-| **−60%** | **−45%** | **2–4 wks** |
+| **-60%** | **-45%** | **2-4 wks** |
 | :---: | :---: | :---: |
 | first‑touch handling time | load on operators | pilot timeline |
 
