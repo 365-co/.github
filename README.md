@@ -1,8 +1,3 @@
----
-title: Microsoft 365 Agentic Enterprise Development
-description: AI agent solutions in Microsoft 365 — Copilot, Graph, SharePoint, Power Platform, Azure OpenAI.
----
-
 <a id="main"></a>
 
 <div align="center">
